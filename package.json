@@ -7,6 +7,9 @@
   "author": "Juan Campa",
   "license": "MIT",
   "private": false,
+  "bin": {
+    "mctl": "./bin/mctl"
+  },
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "proxy-from-env": "^1.1.0"
